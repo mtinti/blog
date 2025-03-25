@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "blog"
+  site-url: "https://mtinti.github.io/blog"
+  description: "A personal blog documenting my journey as a bioinformatician"
+  repo-branch: main
+  repo-url: "https://github.com/mtinti/blog"
