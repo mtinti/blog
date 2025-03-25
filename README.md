@@ -55,13 +55,3 @@ Documentation can be found hosted on this GitHub
 package manager specific guidelines on
 [conda](https://anaconda.org/mtinti/blog) and
 [pypi](https://pypi.org/project/blog/) respectively.
-
-## How to use
-
-Fill me in please! Don’t forget code examples:
-
-``` python
-1+1
-```
-
-    2
